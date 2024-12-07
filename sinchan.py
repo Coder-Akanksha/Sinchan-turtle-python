@@ -1,3 +1,4 @@
+# This is graphics of shinchan using python turtle library
 from turtle import *
 #import time
 s=Screen()
